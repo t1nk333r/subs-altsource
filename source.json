@@ -1,0 +1,35 @@
+{
+  "name": "Subs",
+  "identifier": "com.tinker.subs.source",
+  "subtitle": "Subscription calendar",
+  "description": "Official source for Subs, a calendar for your subscriptions.",
+  "iconURL": "https://raw.githubusercontent.com/t1nk333r/subs-altsource/main/icon.png",
+  "website": "https://github.com/t1nk333r/subs-altsource",
+  "tintColor": "#FFC93C",
+  "featuredApps": ["com.tinker.subs"],
+  "apps": [
+    {
+      "name": "Subs",
+      "bundleIdentifier": "com.tinker.subs",
+      "developerName": "tinker",
+      "subtitle": "See every subscription on a calendar.",
+      "localizedDescription": "Track your subscriptions on a monthly calendar. See what is due each day, what you spend per month and year, and get reminded before renewals.\n\nImport from JSON, App Store receipts or bank statements. Logos are fetched automatically.\n\nNote: iCloud sync is not available in sideloaded builds; data stays on the device.",
+      "iconURL": "https://raw.githubusercontent.com/t1nk333r/subs-altsource/main/icon.png",
+      "tintColor": "#FFC93C",
+      "category": "utilities",
+      "screenshots": [
+        "https://raw.githubusercontent.com/t1nk333r/subs-altsource/main/screenshots/home.png",
+        "https://raw.githubusercontent.com/t1nk333r/subs-altsource/main/screenshots/stats.png",
+        "https://raw.githubusercontent.com/t1nk333r/subs-altsource/main/screenshots/day.png",
+        "https://raw.githubusercontent.com/t1nk333r/subs-altsource/main/screenshots/edit.png",
+        "https://raw.githubusercontent.com/t1nk333r/subs-altsource/main/screenshots/settings.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": []
+    }
+  ],
+  "news": []
+}
