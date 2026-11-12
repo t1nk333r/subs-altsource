@@ -33,6 +33,15 @@
       "versions": [
         {
           "version": "0.1.0",
+          "buildVersion": "2",
+          "date": "2026-11-12",
+          "localizedDescription": "Data fixes (pauses, refunds, 3-decimal currencies), reliable reminders, VoiceOver support, cleaner design, faster imports and calendar.",
+          "downloadURL": "https://github.com/t1nk333r/subs-altsource/releases/download/v0.1.0-2/Subs-0.1.0-2.ipa",
+          "size": 964934,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "0.1.0",
           "buildVersion": "1",
           "date": "2026-11-12",
           "localizedDescription": "Initial release.",
@@ -43,9 +52,9 @@
       ],
       "version": "0.1.0",
       "versionDate": "2026-11-12",
-      "versionDescription": "Initial release.",
-      "downloadURL": "https://github.com/t1nk333r/subs-altsource/releases/download/v0.1.0-1/Subs-0.1.0-1.ipa",
-      "size": 917182
+      "versionDescription": "Data fixes (pauses, refunds, 3-decimal currencies), reliable reminders, VoiceOver support, cleaner design, faster imports and calendar.",
+      "downloadURL": "https://github.com/t1nk333r/subs-altsource/releases/download/v0.1.0-2/Subs-0.1.0-2.ipa",
+      "size": 964934
     }
   ],
   "news": []
