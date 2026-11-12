@@ -6,7 +6,9 @@
   "iconURL": "https://raw.githubusercontent.com/t1nk333r/subs-altsource/main/icon.png",
   "website": "https://github.com/t1nk333r/subs-altsource",
   "tintColor": "#FFC93C",
-  "featuredApps": ["com.tinker.subs"],
+  "featuredApps": [
+    "com.tinker.subs"
+  ],
   "apps": [
     {
       "name": "Subs",
@@ -28,7 +30,22 @@
         "entitlements": [],
         "privacy": {}
       },
-      "versions": []
+      "versions": [
+        {
+          "version": "0.1.0",
+          "buildVersion": "1",
+          "date": "2026-11-12",
+          "localizedDescription": "Initial release.",
+          "downloadURL": "https://github.com/t1nk333r/subs-altsource/releases/download/v0.1.0-1/Subs-0.1.0-1.ipa",
+          "size": 917182,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "version": "0.1.0",
+      "versionDate": "2026-11-12",
+      "versionDescription": "Initial release.",
+      "downloadURL": "https://github.com/t1nk333r/subs-altsource/releases/download/v0.1.0-1/Subs-0.1.0-1.ipa",
+      "size": 917182
     }
   ],
   "news": []
